@@ -48,6 +48,7 @@ Session.vim
 /content/data/*
 /content/apps/**/*
 /content/images/**/*
+/content/themes/custom/**
 !/content/themes/casper/**
 !/README.md
 
